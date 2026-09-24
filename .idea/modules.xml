@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/command-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/command-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mining-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mining-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/space-mining.iml" filepath="$PROJECT_DIR$/.idea/space-mining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validator-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/validator-service.main.iml" />
+    </modules>
+  </component>
+</project>
